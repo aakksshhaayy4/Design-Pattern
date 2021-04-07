@@ -1,0 +1,11 @@
+package com.akshay.test;
+
+public class Singleton_Multithread {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

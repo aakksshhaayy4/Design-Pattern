@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Printer.java&apos; to &apos;Proj3-SingletonDp-MultiThreadedEnv/src/com.akshay.dp&apos;&#x0D;&#x0A;- Original project: &apos;Proj1-SingletonDp&apos;&#x0D;&#x0A;- Destination element: &apos;Proj3-SingletonDp-MultiThreadedEnv/src/com.akshay.dp&apos;&#x0D;&#x0A;- Original element: &apos;com.akshay.dp.Printer.java&apos;" description="Copy compilation unit" destination="=Proj3-SingletonDp-MultiThreadedEnv/src&lt;com.akshay.dp" element1="/src&lt;com.akshay.dp{Printer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617364573407" units="1" version="1.0"/>
+</session>

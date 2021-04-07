@@ -1,0 +1,10 @@
+package com.akshay.dp;
+
+public class Singleton_Multithread {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
